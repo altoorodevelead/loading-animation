@@ -22,7 +22,7 @@ body {
 }
 .loader {
   padding: 2rem 4rem;
-  font-family: monospace;
+  font-family: 'Roboto', sans-serif;
   font-weight: bold;
   color: #fff;
   border-style: solid;
